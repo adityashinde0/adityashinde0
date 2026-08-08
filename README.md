@@ -6,11 +6,11 @@
 
 ###
 
-<p data-importer="text" align="center">👋 About Me<br><br>- 🎓 B.Tech in Computer Science (AI & ML) at Chhatrapati Shivaji Maharaj University, Navi Mumbai<br>- 📚 Currently pursuing the Udacity Accenture AWS AI/ML Nanodegree<br>- 💡 Passionate about Artificial Intelligence, Machine Learning, and Cloud Platforms (AWS, IBM Cloud)<br>- 🛠️ Skilled in DBMS, SQL, WSL and workflow troubleshooting<br>- 🌍 Active contributor to open-source projects (e.g., Hugging Face Spaces)<br>- ✨ Focused on personal branding — showcasing GitHub achievements and private contributions<br>- 📈 Goals: Earn certifications ( IBM SkillsBuild), master practical workflow setups, and contribute to impactful AI projects<br>🌐 Socials:</p>
+<p data-importer="text" align="center"><h2>👋 About Me</h2>h2><br><br>- 🎓 B.Tech in Computer Science (AI & ML) at Chhatrapati Shivaji Maharaj University, Navi Mumbai<br>- 📚 Currently pursuing the Udacity Accenture AWS AI/ML Nanodegree<br>- 💡 Passionate about Artificial Intelligence, Machine Learning, and Cloud Platforms (AWS, IBM Cloud)<br>- 🛠️ Skilled in DBMS, SQL, WSL and workflow troubleshooting<br>- 🌍 Active contributor to open-source projects (e.g., Hugging Face Spaces)<br>- ✨ Focused on personal branding — showcasing GitHub achievements and private contributions<br>- 📈 Goals: Earn certifications ( IBM SkillsBuild), master practical workflow setups, and contribute to impactful AI projects<br>🌐 Socials:</p>
 
 ###
 
-<h3 data-importer="text" align="left">----------------------------------------- I code with -----------------------------------------</h3>
+<h3 data-importer="text" align="left">------------------------------------------------ I code with ------------------------------------------------</h3>
 
 ###
 
